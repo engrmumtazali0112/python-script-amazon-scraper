@@ -108,9 +108,10 @@ vercel --prod
 After updating the `README.md`, you need to add, commit, and push the changes to your GitHub repository:
 
 1. **Add the Changes**:
-   ```
+```
    git add README.md
 ```
+
 # 📌 Follow Us
 
 📜 License
