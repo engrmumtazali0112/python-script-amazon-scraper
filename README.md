@@ -9,6 +9,12 @@ Aamazon_scraper is a Python-based project that scrapes Amazon product data such 
 - A Flask API to serve the scraped data.
 - A React-based frontend for querying and displaying data.
 
+## Demo
+Click below to see the demo in action:
+
+[![Amazon Scraper Demo](https://img.shields.io/badge/Demo-Click_Here-blue?style=for-the-badge&logo=appveyor)](https://github.com/engrmumtazali0112/python-script-amazon-scraper/blob/main/IMG_8363-ezgif.com-video-to-gif-converter.gif)
+
+---
 ## Project Structure
 ```
 amazon_scraper/
