@@ -1,0 +1,983 @@
+[
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,241",
+        "price": "$127.99",
+        "image_url": "https://m.media-amazon.com/images/I/711X0g9zd5L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.387361",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "749",
+        "price": "$79.99",
+        "image_url": "https://m.media-amazon.com/images/I/71+s5fiR3RL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.396358",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.422359",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.427361",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "251",
+        "price": "$79.99",
+        "image_url": "https://m.media-amazon.com/images/I/813R9KPtFKL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.431357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "67",
+        "price": "$89.88",
+        "image_url": "https://m.media-amazon.com/images/I/71F31x+017L._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.434358",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "811",
+        "price": "$249.99",
+        "image_url": "https://m.media-amazon.com/images/I/712MDOjV0mL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.438357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "154",
+        "price": "$99.99",
+        "image_url": "https://m.media-amazon.com/images/I/71aoBTciGkL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.450362",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,241",
+        "price": "$127.99",
+        "image_url": "https://m.media-amazon.com/images/I/711X0g9zd5L._AC_UL640_QL65_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.460360",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "130",
+        "price": "$38.99",
+        "image_url": "https://m.media-amazon.com/images/I/91938IFs98L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.465358",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "161",
+        "price": "$64.99",
+        "image_url": "https://m.media-amazon.com/images/I/71oOnrrMo+L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.473363",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,236",
+        "price": "$149.00",
+        "image_url": "https://m.media-amazon.com/images/I/5186bjryKaL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.480390",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "27,241",
+        "price": "$49.99",
+        "image_url": "https://m.media-amazon.com/images/I/61L69xWQ22L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.484392",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "64",
+        "price": "$149.99",
+        "image_url": "https://m.media-amazon.com/images/I/81qnmrtBjVL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.497358",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "47",
+        "price": "$159.99",
+        "image_url": "https://m.media-amazon.com/images/I/81BUXZDhppL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.511360",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "911",
+        "price": "$179.99",
+        "image_url": "https://m.media-amazon.com/images/I/81C9A0E+8TL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.517358",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "139",
+        "price": "$99.99",
+        "image_url": "https://m.media-amazon.com/images/I/71uTMF3DcIL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.523357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "812",
+        "price": "$135.99",
+        "image_url": "https://m.media-amazon.com/images/I/71pUihgm1OL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.528357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1",
+        "price": "$79.98",
+        "image_url": "https://m.media-amazon.com/images/I/61FuZpcUpGL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.534361",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "442",
+        "price": "$59.99",
+        "image_url": "https://m.media-amazon.com/images/I/81ub66qWvlL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.538357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "642",
+        "price": "$39.59",
+        "image_url": "https://m.media-amazon.com/images/I/61uPaQRoanL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.543359",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "429",
+        "price": "$109.99",
+        "image_url": "https://m.media-amazon.com/images/I/71WCUJG3L8L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.550360",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "2,613",
+        "price": "$24.21",
+        "image_url": "https://m.media-amazon.com/images/I/61hvAriwWmL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.554357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "558",
+        "price": "$1,535.54",
+        "image_url": "https://m.media-amazon.com/images/I/71ArHX1M56L._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.580359",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "558",
+        "price": "$1,535.54",
+        "image_url": "https://m.media-amazon.com/images/I/71ArHX1M56L._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.583357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "811",
+        "price": "$249.99",
+        "image_url": "https://m.media-amazon.com/images/I/712MDOjV0mL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.588357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "191",
+        "price": "$99.99",
+        "image_url": "https://m.media-amazon.com/images/I/61O+SIUnipL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.592357",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "472",
+        "price": "$299.99",
+        "image_url": "https://m.media-amazon.com/images/I/61wL5K2sm0L._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.597360",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,241",
+        "price": "$179.99",
+        "image_url": "https://m.media-amazon.com/images/I/71k-RBRGypL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:26.604359",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "63",
+        "price": "$2,499.00",
+        "image_url": "https://m.media-amazon.com/images/I/71z7B11WBlL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.767559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.771559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "2,664",
+        "price": "$379.99",
+        "image_url": "https://m.media-amazon.com/images/I/61OgrFcqSPL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.779558",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "3,357",
+        "price": "$28.48",
+        "image_url": "https://m.media-amazon.com/images/I/61E7II5XyjL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.785559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.799559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.802559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "13,057",
+        "price": "$22.99",
+        "image_url": "https://m.media-amazon.com/images/I/71SbhsSkfYL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.805559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "811",
+        "price": "$399.00",
+        "image_url": "https://m.media-amazon.com/images/I/71o1TZYoqIL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.813564",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "191",
+        "price": "$99.99",
+        "image_url": "https://m.media-amazon.com/images/I/61O+SIUnipL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.821559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "40",
+        "price": "$189.99",
+        "image_url": "https://m.media-amazon.com/images/I/71x5MREd-9L._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.825564",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,165",
+        "price": "$129.99",
+        "image_url": "https://m.media-amazon.com/images/I/71ERJaaIqGL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.829559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "2,089",
+        "price": "$79.99",
+        "image_url": "https://m.media-amazon.com/images/I/71i1zax59rL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.833559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "3,595",
+        "price": "$447.99",
+        "image_url": "https://m.media-amazon.com/images/I/81DiHPULy2L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.838559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "9,432",
+        "price": "$47.99",
+        "image_url": "https://m.media-amazon.com/images/I/610iZX9CHPL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.848561",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "2,765",
+        "price": "$159.00",
+        "image_url": "https://m.media-amazon.com/images/I/619tia+v3UL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.853560",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "2",
+        "price": "$189.99",
+        "image_url": "https://m.media-amazon.com/images/I/81d3zyvmraL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.866560",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "13,057",
+        "price": "$22.99",
+        "image_url": "https://m.media-amazon.com/images/I/71SbhsSkfYL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.873566",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,884",
+        "price": "$126.65",
+        "image_url": "https://m.media-amazon.com/images/I/71JbgMHA5nL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.877559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "368",
+        "price": "$249.00",
+        "image_url": "https://m.media-amazon.com/images/I/71p5V8+OnfL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.881559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,836",
+        "price": "$89.99",
+        "image_url": "https://m.media-amazon.com/images/I/61KY5F1Cs6L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.885559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "223",
+        "price": "$499.99",
+        "image_url": "https://m.media-amazon.com/images/I/61ot6jAYViL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.896559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,217",
+        "price": "$145.95",
+        "image_url": "https://m.media-amazon.com/images/I/81eRWlXWBPL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.900559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,006",
+        "price": "$519.00",
+        "image_url": "https://m.media-amazon.com/images/I/61tukvVUMiL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.904559",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "21,016",
+        "price": "$59.96",
+        "image_url": "https://m.media-amazon.com/images/I/31keugPAjdL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.911562",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "9",
+        "price": "$49.99",
+        "image_url": "https://m.media-amazon.com/images/I/51t8hF9kL-L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.921563",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "8",
+        "price": "$39.99",
+        "image_url": "https://m.media-amazon.com/images/I/61+eJQLkzcL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.929560",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,241",
+        "price": "$127.99",
+        "image_url": "https://m.media-amazon.com/images/I/711X0g9zd5L._AC_UL640_QL65_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:36.936563",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "63",
+        "price": "$2,499.00",
+        "image_url": "https://m.media-amazon.com/images/I/71z7B11WBlL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.826177",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.835180",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "8,145",
+        "price": "$25.99",
+        "image_url": "https://m.media-amazon.com/images/I/61GJd-Jue9L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.841174",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "2,584",
+        "price": "$89.99",
+        "image_url": "https://m.media-amazon.com/images/I/71XjuW0u+oL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.852172",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "6,141",
+        "price": "$99.99",
+        "image_url": "https://m.media-amazon.com/images/I/61xQkJ7hLdL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.860173",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.886175",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.890174",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "558",
+        "price": "$399.99",
+        "image_url": "https://m.media-amazon.com/images/I/61Nw5mkNdHL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.894172",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,737",
+        "price": "$299.99",
+        "image_url": "https://m.media-amazon.com/images/I/51Dw9T0CddL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.898172",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "148",
+        "price": "$899.99",
+        "image_url": "https://m.media-amazon.com/images/I/71M3oT24RYL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.902171",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "40",
+        "price": "$189.99",
+        "image_url": "https://m.media-amazon.com/images/I/71x5MREd-9L._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.908179",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "158",
+        "price": "$39.99",
+        "image_url": "https://m.media-amazon.com/images/I/71yG0R6Rx6L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.942173",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "2,701",
+        "price": "$209.00",
+        "image_url": "https://m.media-amazon.com/images/I/61l2P9RV24L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.951170",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "90",
+        "price": "$99.99",
+        "image_url": "https://m.media-amazon.com/images/I/81yIIPoEJdL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.955169",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "303",
+        "price": "$189.00",
+        "image_url": "https://m.media-amazon.com/images/I/81Wywy4nmhL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.960169",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "3,624",
+        "price": "$59.99",
+        "image_url": "https://m.media-amazon.com/images/I/71uNMozN-6L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.965169",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "9",
+        "price": "$49.99",
+        "image_url": "https://m.media-amazon.com/images/I/51t8hF9kL-L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.972170",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "14",
+        "price": "$249.99",
+        "image_url": "https://m.media-amazon.com/images/I/71EhA3DNAFL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.978169",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "29,411",
+        "price": "$79.99",
+        "image_url": "https://m.media-amazon.com/images/I/61UZavYE9TL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.982169",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "6,152",
+        "price": "$119.99",
+        "image_url": "https://m.media-amazon.com/images/I/31750hI5MLL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.988170",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "3,695",
+        "price": "$25.98",
+        "image_url": "https://m.media-amazon.com/images/I/51IxtP5Y51L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:43.993169",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "691",
+        "price": "$99.98",
+        "image_url": "https://m.media-amazon.com/images/I/61je--HSHOL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:44.002193",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "5,550",
+        "price": "$139.95",
+        "image_url": "https://m.media-amazon.com/images/I/81+kQf+HtQL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:44.007174",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "237",
+        "price": "$179.00",
+        "image_url": "https://m.media-amazon.com/images/I/61GQA1yUSVL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:44.011170",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "118",
+        "price": "$414.00",
+        "image_url": "https://m.media-amazon.com/images/I/91wMvzaHScL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:44.016172",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "4,258",
+        "price": "$149.95",
+        "image_url": "https://m.media-amazon.com/images/I/71H2GGFS5qL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:44.022170",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "222",
+        "price": "$99.99",
+        "image_url": "https://m.media-amazon.com/images/I/81pdK1vK3uL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:44.028169",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "101",
+        "price": "$299.00",
+        "image_url": "https://m.media-amazon.com/images/I/61w6J4B+S2L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:44.034169",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.303328",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "4,559",
+        "price": "$76.00",
+        "image_url": "https://m.media-amazon.com/images/I/41TupDmo90L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.309328",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "465",
+        "price": "$142.00",
+        "image_url": "https://m.media-amazon.com/images/I/61VsJsjJ-kL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.315340",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "773",
+        "price": "$119.99",
+        "image_url": "https://m.media-amazon.com/images/I/61FniSY9QjL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.320327",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "558",
+        "price": "$399.99",
+        "image_url": "https://m.media-amazon.com/images/I/61Nw5mkNdHL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.336325",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "558",
+        "price": "$399.99",
+        "image_url": "https://m.media-amazon.com/images/I/61Nw5mkNdHL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.340345",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "227",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/71g4VJreiqL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.345327",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "811",
+        "price": "$399.00",
+        "image_url": "https://m.media-amazon.com/images/I/71o1TZYoqIL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.350326",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,737",
+        "price": "$299.99",
+        "image_url": "https://m.media-amazon.com/images/I/51Dw9T0CddL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.353326",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "148",
+        "price": "$899.99",
+        "image_url": "https://m.media-amazon.com/images/I/71M3oT24RYL._AC_UL320_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.358326",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "765",
+        "price": "$39.99",
+        "image_url": "https://m.media-amazon.com/images/I/71XEKlCf2xL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.367325",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,157",
+        "price": "$69.00",
+        "image_url": "https://m.media-amazon.com/images/I/81sIesAHS+L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.371327",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "3,779",
+        "price": "$34.99",
+        "image_url": "https://m.media-amazon.com/images/I/51PA7a-6JnL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.377329",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "2,825",
+        "price": "$89.95",
+        "image_url": "https://m.media-amazon.com/images/I/71PdxVndA9L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.382329",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "15",
+        "price": "$199.99",
+        "image_url": "https://m.media-amazon.com/images/I/71r3kT6F5jL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.387329",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "63",
+        "price": "$2,499.00",
+        "image_url": "https://m.media-amazon.com/images/I/71z7B11WBlL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.416325",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "288",
+        "price": "$99.99",
+        "image_url": "https://m.media-amazon.com/images/I/71JjCECxpxL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.421328",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "12,289",
+        "price": "$69.99",
+        "image_url": "https://m.media-amazon.com/images/I/51NidkzbQqL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.431327",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "7,095",
+        "price": "$59.99",
+        "image_url": "https://m.media-amazon.com/images/I/717ud8Yof8L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.440326",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "3,298",
+        "price": "$69.00",
+        "image_url": "https://m.media-amazon.com/images/I/61RNweTg0AL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.443325",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "1,432",
+        "price": "$199.00",
+        "image_url": "https://m.media-amazon.com/images/I/71xFbAN2UjL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.447325",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "772",
+        "price": "$139.95",
+        "image_url": "https://m.media-amazon.com/images/I/71bnhhGxWDL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.452328",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "5,084",
+        "price": "$29.74",
+        "image_url": "https://m.media-amazon.com/images/I/61e255+medL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.462326",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "200",
+        "price": "$89.99",
+        "image_url": "https://m.media-amazon.com/images/I/718BmYeyJ7L._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.468328",
+        "scrape_date": "2024-12-24"
+    },
+    {
+        "title": "N/A",
+        "link": "N/A",
+        "reviews": "4",
+        "price": "$829.99",
+        "image_url": "https://m.media-amazon.com/images/I/61QSqwOCEpL._AC_UY218_.jpg",
+        "creation_timestamp": "2024-12-24T23:11:50.480325",
+        "scrape_date": "2024-12-24"
+    }
+]
