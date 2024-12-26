@@ -36,15 +36,15 @@ amazon_scraper/
 │   └── build/               # Compiled frontend files
 
 ```
-## Installation and Setup
+# Installation and Setup
 
-# Backend Setup
+## Backend Setup
 1. Clone the repository:
    ```
    git clone https://github.com/engrmumtazali0112/python-script-amazon-scrape.git
    cd amazon_scraper/backend
     ```
-# Install dependencies:
+## Install dependencies:
 
  ```
 pip install -r requirements.txt
