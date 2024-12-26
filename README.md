@@ -38,7 +38,7 @@ amazon_scraper/
 ```
 ## Installation and Setup
 
-### Backend Setup
+# Backend Setup
 1. Clone the repository:
    ```
    git clone https://github.com/engrmumtazali0112/python-script-amazon-scrape.git
@@ -71,7 +71,7 @@ npm start
  ```
 
 ## Deployment
-### Backend Deployment on Vercel
+# Backend Deployment on Vercel
 
 Ensure vercel.json is correctly configured.
 # Deploy the backend:
@@ -97,13 +97,13 @@ vercel --prod
 - Node.js
 
   
-### Steps to Update Your `README.md`
+## Steps to Update Your `README.md`
 
 1. **Open Your `README.md` File** in your project directory.
 2. **Replace the Existing Content** with the updated content provided above.
 3. **Save the File**.
 
-### Add, Commit, and Push Changes
+## Add, Commit, and Push Changes
 
 After updating the `README.md`, you need to add, commit, and push the changes to your GitHub repository:
 
